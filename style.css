@@ -1,10 +1,10 @@
 @font-face {
     font-family: "Sketchy"; /* Sketchy */
-    src: url(vscode-local:/c%3A/Users/wmche/Downloads/Sketchy-Regular.ttf) format("truetype"),
+    src: url("./Sketchy-Regular.ttf") format("truetype"),
     /* If you're using otf its opentype if ttf it's trutype */    
 }
 
-.my-font {
+.sketchy {
     /* class name dont matter*/
     font-family: "Sketchy", serif;
     /* has to be the same as font name*/
